@@ -21,4 +21,10 @@ This is a full-stack pharmacy management system developed to manage inventory, b
 4. Run the project
 
 ## Demo
-(Screenshots will be added here)
+https://github.com/mohamedabrar-dev/careplus-pharmacy-managementt/blob/main/2026-03-26%20(1).png
+https://github.com/mohamedabrar-dev/careplus-pharmacy-managementt/blob/main/2026-03-26%20(2).png
+https://github.com/mohamedabrar-dev/careplus-pharmacy-managementt/blob/main/2026-03-26%20(3).png
+https://github.com/mohamedabrar-dev/careplus-pharmacy-managementt/blob/main/2026-03-26%20(4).png
+https://github.com/mohamedabrar-dev/careplus-pharmacy-managementt/blob/main/2026-03-26%20(5).png
+https://github.com/mohamedabrar-dev/careplus-pharmacy-managementt/blob/main/2026-03-26%20(6).png
+https://github.com/mohamedabrar-dev/careplus-pharmacy-managementt/blob/main/2026-03-26%20.png
